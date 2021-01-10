@@ -1,0 +1,132 @@
+{
+	"allProjects": [
+		{
+			"imageUrl": "assets/component-logo.png",
+			"projectDescription": [
+				{
+					"field": "category",
+					"title": "Category",
+					"value": "Demo"
+				},
+				{
+					"field": "brand",
+					"title": "Brand",
+					"value": "Lays"
+				},
+				{
+					"field": "productName",
+					"title": "Product Name",
+					"value": "Fritto Lays"
+				},
+				{
+					"field": "packSize",
+					"title": "Pack Size",
+					"value": "200 ml"
+				},
+				{
+					"field": "componentType",
+					"title": "Component Type",
+					"value": "Label Black"
+				}
+			],
+			"status": "In Progress",
+			"dueDays": 37
+		},
+		{
+			"imageUrl": "assets/component-logo.png",
+			"projectDescription": [
+				{
+					"field": "category",
+					"title": "Category",
+					"value": "Demo"
+				},
+				{
+					"field": "brand",
+					"title": "Brand",
+					"value": "Lays"
+				},
+				{
+					"field": "productName",
+					"title": "Product Name",
+					"value": "Fritto Lays"
+				},
+				{
+					"field": "packSize",
+					"title": "Pack Size",
+					"value": "200 ml"
+				},
+				{
+					"field": "componentType",
+					"title": "Component Type",
+					"value": "Label Black"
+				}
+			],
+			"status": "In Progress",
+			"dueDays": 37
+		},
+		{
+			"imageUrl": "assets/component-logo.png",
+			"projectDescription": [
+				{
+					"field": "category",
+					"title": "Category",
+					"value": "Demo"
+				},
+				{
+					"field": "brand",
+					"title": "Brand",
+					"value": "Lays"
+				},
+				{
+					"field": "productName",
+					"title": "Product Name",
+					"value": "Fritto Lays"
+				},
+				{
+					"field": "packSize",
+					"title": "Pack Size",
+					"value": "200 ml"
+				},
+				{
+					"field": "componentType",
+					"title": "Component Type",
+					"value": "Label Black"
+				}
+			],
+			"status": "In Progress",
+			"dueDays": 37
+		},
+		{
+			"imageUrl": "assets/component-logo.png",
+			"projectDescription": [
+				{
+					"field": "category",
+					"title": "Category",
+					"value": "Demo"
+				},
+				{
+					"field": "brand",
+					"title": "Brand",
+					"value": "Lays"
+				},
+				{
+					"field": "productName",
+					"title": "Product Name",
+					"value": "Fritto Lays"
+				},
+				{
+					"field": "packSize",
+					"title": "Pack Size",
+					"value": "200 ml"
+				},
+				{
+					"field": "componentType",
+					"title": "Component Type",
+					"value": "Label Black"
+				}
+			],
+			"status": "In Progress",
+			"dueDays": 37
+		}
+	]
+}

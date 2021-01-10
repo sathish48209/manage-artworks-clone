@@ -1,0 +1,17 @@
+.MuiPaper-root.MuiDrawer-paper {
+	background-color: #263238;
+	color: #ECEFF1;
+}
+
+.MuiListItem-root .MuiSvgIcon-root,
+.MuiIconButton-label .MuiSvgIcon-root {
+	color: #ECEFF1;
+}
+
+.MuiList-root .MuiListSubheader-root {
+	color: #607D8B;
+}
+
+hr.MuiDivider-root {
+	background-color: #455A64;
+}
